@@ -1,0 +1,29 @@
+{
+  "name": "anthonyjones",
+  "version": "1.0.0",
+  "description": "Anthonyjones Node.js module with fun functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthonyjones8161567/anthonyjones"
+  },
+  "dependencies": {
+	  "denisgorlov-math": "1.0.0",
+"susanmartin": "1.0.0",
+"annef-js": "1.0.0",
+"christopherlee": "1.0.0",
+"sdk-krotovsemen": "1.0.0",
+"marinahramtsova-js": "1.0.0",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyjones8161567/anthonyjones/issues"
+  },
+  "homepage": "https://github.com/anthonyjones8161567/anthonyjones#readme"
+}
